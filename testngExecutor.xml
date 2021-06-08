@@ -1,0 +1,10 @@
+<suite name="Media_Ocean" parallel="none" thread-count="4">
+	<test name="Media_Ocean" preserve-order="true">
+		<classes>
+
+
+			<class name="sceanrio.mediaocean.Media_Ocean_Scenario" />
+
+		</classes>
+	</test>
+</suite>
